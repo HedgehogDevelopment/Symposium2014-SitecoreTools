@@ -50,12 +50,20 @@ Extension Resources:
 ## Sitecore PowerShell Extensions: SPE ##
 Download: [https://marketplace.sitecore.net/en/Modules/Sitecore_PowerShell_console.aspx](https://marketplace.sitecore.net/en/Modules/Sitecore_PowerShell_console.aspx)
 
+Tool Resources:
+
+ - [Adam Najmanovic's Resources Post](http://bit.ly/1aJc6lJ)
+ - [Codality Blog](http://bit.ly/1dnldJS)
+
+
 Extension Resources:
 
  - [Michael West's SPE Introduction YouTube Videos](https://www.youtube.com/watch?v=bVqa4DAANYk&list=PLph7ZchYd_nCypVZSNkudGwPFRqf1na0b)
  - [Mike Reynolds' post on creating a custom report with SPE](http://sitecorejunkie.com/2014/05/28/create-a-custom-report-in-sitecore-powershell-extensions/)
  - [Mike Reynolds' post on making bulk updates with SPE](http://sitecorejunkie.com/2014/06/02/make-bulk-item-updates-using-sitecore-powershell-extensions/)
  - [Mike Reynolds' post on creating a custom command in SPE](http://sitecorejunkie.com/2014/05/29/build-a-custom-command-in-sitecore-powershell-extensions/)
+ - [Recorded User Group](https://www.youtube.com/playlist?list=PLCB3zlgqNwcTi7_DIirILu7b3LhN0ucWY)
+ - [Recorded SUGCON Presentation](https://www.youtube.com/watch?v=Eo4V2uJadMU)
 
 
 ## Sitecore Rocks ##
